@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #f4f4f4;
+  color: #333;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5; }
+
+header {
+  background: #333;
+  padding: 1rem;
+  color: #f4f4f4; }
+  header h1 {
+    text-align: center; }
+
+.section {
+  padding: 3rem; }
+  .section h3 {
+    font-size: 2rem; }
+  .section-a {
+    background: steelblue;
+    color: #f4f4f4; }
+  .section-b {
+    background: skyblue;
+    color: #f4f4f4; }
+
+a {
+  color: #333;
+  text-decoration: none; }
+  a:hover {
+    color: lightcoral; }
